@@ -1,0 +1,13 @@
+payment_id,order_id,payment_date,amount,payment_method
+1,1,2024-01-18,510,Bank Transfer
+2,2,2024-09-05,2020,Credit Card
+3,3,2024-06-08,1320,PayPal
+4,4,2024-09-29,800,Credit Card
+5,5,2024-04-14,1440,Credit Card
+6,6,2024-12-28,1040,PayPal
+7,7,2024-03-12,2600,Credit Card
+8,10,2024-11-05,1260,PayPal
+9,11,2024-05-17,2400,Bank Transfer
+10,12,2024-05-20,150,Credit Card
+11,16,2024-09-24,1060,Bank Transfer
+12,17,2024-07-04,2300,PayPal
